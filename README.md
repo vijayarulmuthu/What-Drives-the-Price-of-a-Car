@@ -89,8 +89,8 @@ Our analysis provides a comprehensive understanding of the factors influencing u
 
 ## Appendices
 - **Correlation Matrix**: Provides a detailed view of the relationships between different numerical features.
-![](images/correlation-matrix.png)
+![](./images/correlation-matrix.png)
 - **Feature Importances**: Detailed charts showing the importance of various features across different models.
-![](images/feature-importance.png)
+![](./images/feature-importance.png)
 - **Residual Plots**: Visual representations of model performance and residual distribution.
-![](images/residual-plots.png)
+![](./images/residual-plots.png)
